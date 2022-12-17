@@ -10,3 +10,4 @@ function findSmallArray(input){
 let arrayString=["deepa","AA","nidhii","ilan"];   // array of string
 
 console.log(findSmallArray(arrayString));
+console.log(findSmallArray(arrayString));
