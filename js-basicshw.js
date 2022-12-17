@@ -1,6 +1,10 @@
 function countNumberOfChars(inputString){
     return inputString.length;
 }
+
+console.log(countNumberOfChars("deepa"));
+console.log(countNumberOfChars("deepaKalyanasundaram"));
+
 function findGreaterOfTwo(a,b)
 {
     if(a>b){
@@ -18,8 +22,6 @@ function checkCondition(input)
     return false
 }
 
-console.log(countNumberOfChars("deepa"));
-console.log(countNumberOfChars("deepaKalyanasundaram"));
 console.log(findGreaterOfTwo(8,5));
 console.log(checkCondition(9));
 

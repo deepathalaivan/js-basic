@@ -13,10 +13,12 @@ let student={
     name:"nidhi",
     age:22,
     degree:"BE",
-    collage:"Anna University"
+    collage:"Anna University",
+    status:"male"
 }
 console.log(student.name);
 function areaOfTraingle(b,h){
     return 1/2*b*h
 }
 console.log(areaOfTraingle(2,6))
+console.log(areaOfTraingle(4,5))

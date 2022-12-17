@@ -1,0 +1,102 @@
+[
+    {
+        "name": "texas",
+        "capital": "Austin",
+        "timeZone": "cst",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "new gitatlanta",
+        "capital": "georgia",
+        "timeZone": "est",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "florida",
+        "capital": "sunshine",
+        "timeZone": "est",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "newyork",
+        "capital": "Austin",
+        "timeZone": "cst",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "ohio",
+        "capital": "Austin",
+        "timeZone": "cst",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "tenesse",
+        "capital": "Austin",
+        "timeZone": "cst",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "oklahama",
+        "capital": "Austin",
+        "timeZone": "cst",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "marryland",
+        "capital": "Austin",
+        "timeZone": "cst",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "northcalolina",
+        "capital": "Austin",
+        "timeZone": "cst",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    },
+    {
+        "name": "arizona",
+        "capital": "Austin",
+        "timeZone": "cst",
+        "visitingPlace": "zoo",
+        "majorCities": "dallas",
+        "language": "English",
+        "weather": "normal",
+        "college": "yes"
+    }
+]
